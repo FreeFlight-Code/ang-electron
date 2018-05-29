@@ -1,0 +1,7 @@
+#footerContainer{
+    height: 75px;
+    background-color: blueviolet;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+}
